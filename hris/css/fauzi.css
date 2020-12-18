@@ -1,0 +1,10 @@
+table, th, td {
+    border: 2px solid black;
+   }
+   tr.hide_right > td, td.hide_right{
+     border-right-style:hidden;
+   }
+   tr.hide_all > td, td.hide_all{
+     border-style:hidden;
+   }
+
